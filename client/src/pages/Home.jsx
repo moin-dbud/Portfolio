@@ -5,7 +5,7 @@ import About from '../components/About'
 import Skills from '../components/Skills'
 import Projects from '../components/Projects'
 import Freelance from '../components/Freelance'
-import Contact from '../components/Contact'
+import Contact from '../components/Contact.jsx'
 
 const Home = () => {
   return (
