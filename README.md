@@ -1,1 +1,94 @@
-# Portfolio
+# 🌐 Moin Sheikh - AI Developer & Web Innovator Portfolio
+
+A modern, responsive, and animated personal portfolio built using **React.js** and **Tailwind CSS**, showcasing my skills, projects, and services as an **AI & Web Developer**.  
+
+Live Demo: [View Portfolio](https://moinsheikh.netlify.app)  
+
+---
+
+## 📋 Features
+- **Responsive Design** – Optimized for desktop, tablet, and mobile.
+- **Smooth Animations** – Added with **Framer Motion** & **AOS**.
+- **Modern UI** – Built with **Tailwind CSS** and custom components.
+- **Dynamic Projects Section** – Showcases my work with live & GitHub links.
+- **Contact Form** – Integrated form with Email/WhatsApp options.
+- **SEO Friendly** – Meta tags and structure for better search visibility.
+
+---
+
+## 🛠 Tech Stack
+**Frontend**
+- React.js (Vite/CRA)
+- Tailwind CSS
+- Framer Motion
+- AOS (Animate on Scroll)
+
+**Deployment**
+- Netlify
+
+
+---
+
+## 🚀 Installation & Setup
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
+   cd portfolio
+   ```
+
+2. **Install Dependencies**
+   ```bash
+    npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production**
+   ```bash
+   npm run build
+   ```
+
+---
+
+## 📦 Deployment (Netlify)
+1. **Build the project**
+   ```bash
+   npm run build
+   ```
+
+2. **Drag & drop the ```dist/``` folder into Netlify Drop**
+   ```bash
+   Build Command: npm run build
+   Publish Directory: dist
+   ```
+---
+
+##📸 Preview
+
+<img width="1897" height="860" alt="Portfolio-7dvqjls_" src="https://github.com/user-attachments/assets/95e69424-6cb6-4a5a-a3a2-c2944db36ea5" />
+
+
+---
+
+## 📧 Contact
+- **Portfolio:** [moinsheikh.netlify.app](https://moinsheikh.netlify.app)
+- **Email:** [moinsheikh1303@gmail.com](moinsheikh1303@gmail.com)
+- **LinkedIn:** [Moin-S-Sheikh](https://linkedin.com/in/moin-s-sheikh)
+- **GitHub:** [Moin-Dbud](https://github.com/moin-dbub)
+
+---
+
+## 📝 License
+### This project is open source and free to use.
+
+
+
+
+
+
+   
+
+
