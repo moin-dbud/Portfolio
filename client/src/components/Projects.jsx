@@ -37,7 +37,7 @@ const projects = [
     description:
       "Full-stack job portal for recruiters and job seekers with dashboard and filters.",
     tags: ["MongoDB", "Express", "React", "Node.js"],
-    liveLink: "https://job-portal-client-seven-puce.vercel.app/",
+    liveLink: "https://jobverse-client.vercel.app/",
     sourceCode: "https://github.com/moin-dbud/JOB-PORTAL",
   },
   

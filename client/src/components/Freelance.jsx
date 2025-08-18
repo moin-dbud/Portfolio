@@ -19,7 +19,7 @@ export default function Freelance() {
         "E-commerce features (cart, orders)",
         "Fully responsive and SEO-optimized",
       ],
-      image: assets.web, // replace
+      image: assets.web, 
     },
     {
       icon: <FaPaintBrush className="text-pink-400 text-2xl" />,
@@ -30,7 +30,7 @@ export default function Freelance() {
         "Interactive prototypes (Figma)",
         "User-focused interfaces",
       ],
-      image: assets.uiux, // replace
+      image: assets.uiux, 
     },
     {
       icon: <FaRobot className="text-purple-400 text-2xl" />,
@@ -41,7 +41,7 @@ export default function Freelance() {
         "Automation scripts & backend services",
         "Real-time apps",
       ],
-      image: assets.ai, // replace
+      image: assets.ai, 
     },
   ];
 
