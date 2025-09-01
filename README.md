@@ -68,7 +68,8 @@ Live Demo: [View Portfolio](https://moinsheikh.netlify.app)
 
 ##📸 Preview
 
-<img width="1897" height="860" alt="Portfolio-7dvqjls_" src="https://github.com/user-attachments/assets/95e69424-6cb6-4a5a-a3a2-c2944db36ea5" />
+<img width="1690" height="834" alt="Portfolio" src="https://github.com/user-attachments/assets/1ac6417c-3e5a-48b2-8acd-bb1a5051f7e0" />
+
 
 
 ---
