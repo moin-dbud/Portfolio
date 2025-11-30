@@ -2,7 +2,7 @@
 
 A modern, responsive, and animated personal portfolio built using **React.js** and **Tailwind CSS**, showcasing my skills, projects, and services as an **AI & Web Developer**.  
 
-Live Demo: [View Portfolio](https://moinsheikh.netlify.app)  
+Live Demo: [View Portfolio](https://moinsheikh.isdev.in)  
 
 ---
 
