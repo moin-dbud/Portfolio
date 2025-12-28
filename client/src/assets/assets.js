@@ -1,5 +1,5 @@
 import resume from './Moin_Sheikh_Resume.pdf';
-import profile from './pfp.png';
+import profile from './pf.png';
 import about from './about.jpg';
 import git from './github-logo.png';
 import linkedin from './linkedin.png';
